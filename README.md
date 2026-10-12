@@ -26,7 +26,7 @@ Enrollment is a junction object with master-detail relationships to both Member 
 
 ## Write-Up
 
-- [Flow write-up]()
+- [Flow write-up](docs/class-owner-sync-flow.pdf)
 - Video walkthrough: coming soon
 
 ## Up Next
