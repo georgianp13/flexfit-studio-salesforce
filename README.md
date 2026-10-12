@@ -26,7 +26,7 @@ Enrollment is a junction object with master-detail relationships to both Member 
 
 ## Write-Up
 
-- [Flow write-up](docs/class-owner-sync-flow.pdf)
+- [Flow write-up](https://github.com/georgianp13/flexfit-studio-salesforce/blob/main/docs/FlexFit%20Studio%20Sync%20Class%20Owner%20to%20Trainer%20(Flow).pdf)
 - Video walkthrough: coming soon
 
 ## Up Next
